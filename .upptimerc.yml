@@ -68,7 +68,7 @@ sites:
 - name: Ban Vlaanderen 
   url: https://blog.ban.be
 - name: Bankirai 
-  url: https://www.bankirai.be
+  url: https://www.bankiraiterras.be
 - name: BBTK 
   url: https://www.bbtklimburg.be
 - name: BC Onderhoud 
@@ -90,7 +90,7 @@ sites:
 - name: C & G Construct 
   url: https://www.cgconstruct.be
 - name: Chipps NL 
-  ur: https://blog-nl.chipps.be
+  url: https://blog-nl.chipps.be
 - name: Connectivity Solutions 
   url: https://www.connectivitysolutions.be
 - name: Corvers 
