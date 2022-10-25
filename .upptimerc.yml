@@ -1,16 +1,418 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: jgui1129 # Your GitHub organization or username, where this repository lives
+repo: UTD-Sites-Status-Checker # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+- name: Boetiek Shanna 
+  url: https://www.boetiekshanna.be
+- name: A-chief 
+  url: https://www.a-chief.be
+- name: AB-Matic 
+  url: https://www.ab-matic.be
+- name: AB-Matic Professionals 
+  url: https://www.ab-matic-professionals.be
+- name: AB-Matic Solutions 
+  url: https://www.ab-matic-solutions.be
+- name: ACR 
+  url: https://www.acr-tooling.be
+- name: Acryplex 
+  url: https://www.acryplex.com
+- name: Action Valley 
+  url: https://www.actionvalley.be
+- name: Adelante Arbeid 
+  url: https://arbeid.adelante-zorggroep.nl
+- name: Aelbrecht Maes 
+  url: https://blog.aelbrechtmaes.be
+- name: Agin Timmermans 
+  url: https://www.agintimmermans.nl
+- name: Alarmsystemen Bergoens 
+  url: https://www.alarmsystemenbergoens.be
+- name: Ale Lift Engineering 
+  url: https://www.alelift.be
+- name: Alelek 
+  url: https://www.groepalelek.be
+- name: All Bikes Wim 
+  url: https://www.allbikeswim.be
+- name: Altez 
+  url: https://blog.altez.eu
+- name: Apotheek Farmapunt Achel 
+  url: https://blog.farmapuntachel.be
+- name: Apotheek Farmapunt Hamont 
+  url: https://blog.farmapunthamont.be
+- name: Apotheek Farmapunt Pelt 
+  url: https://blog.farmapuntoverpelt.be
+- name: Apotheek Hendrickx 
+  url: https://blog.apotheek-hendrickxbart.be
+- name: Apotheek Meeussen Wijnegem 
+  url: https://blog.apotheekmeeussen.be
+- name: Apotheek Meysen 
+  url: https://blog.apotheekmeysen.be
+- name: Apotheek Ramaekers 
+  url: https://www.apotheek-ramaekers-lanaken.be
+- name: Apotheek Wouters 
+  url: https://blog.apotheekwouters.be
+- name: Arcxis 
+  url: https://www.arcxis.be
+- name: Assemblee Speakers 
+  url: https://blog.assembleespeakers.com
+- name: Atrox 
+  url: https://www.atrox.be
+- name: B & K Zwembaden 
+  url: https://www.bkzwembaden.be
+- name: Baeten 
+  url: https://www.baetenverzekeringen.be
+- name: Baldr Services 
+  url: https://www.baldrservices.be
+- name: Bamboe Belgie 
+  url: https://www.bamboemagazine.be
+- name: Ban Vlaanderen 
+  url: https://blog.ban.be
+- name: Bankirai 
+  url: https://www.bankirai.be
+- name: BBTK 
+  url: https://www.bbtklimburg.be
+- name: BC Onderhoud 
+  url: https://www.bconderhoud.be
+- name: Bexx Verhuur 
+  url: https://www.bexxverhuur.be
+- name: Bijnen Verwarming 
+  url: https://www.bijnens-verwarming.be
+- name: Bikes Claessens 
+  url: https://www.bikesclaessens.com
+- name: Bleublue 
+  url: https://www.bleublue.be
+- name: BMP Building Services 
+  url: https://www.bmpbuildingservices.be
+- name: Boomkwekerij Kelbergen 
+  url: https://www.boomkwekerij-kelbergen.be
+- name: Broeders Bakerrij 
+  url: https://www.broedersbakkerijservice.be
+- name: C & G Construct 
+  url: https://www.cgconstruct.be
+- name: Chipps NL 
+  ur: https://blog-nl.chipps.be
+- name: Connectivity Solutions 
+  url: https://www.connectivitysolutions.be
+- name: Corvers 
+  url: https://www.corversasfaltwerken.be
+- name: Cring 
+  url: https://www.cring.be
+- name: Dajoka 
+  url: https://www.dajoka.be
+- name: Daro Veranda 
+  url: https://www.daroverandas.be
+- name: De Kolibrie 
+  url: https://www.dekolibrie.be
+- name: De ridder 
+  url: https://www.bvderidder.be
+- name: De Terrasplaatser 
+  url: https://www.deterrasplaatser.be
+- name: Decoene Porsche 
+  url: https://www.porsche-parts.be
+- name: Diabeton 
+  url: https://www.diabeton.be
+- name: Diaspoor 
+  url: https://blog.diaspoor.be
+- name: Dillen 
+  url: https://www.dillen.be
+- name: Dipsss 
+  url: https://www.dipsss.be
+- name: Distrikt Projectontwikkeling 
+  url: https://www.distrikt.immo
+- name: DLD Pools 
+  url: https://blog-nl.dldpools.be
+- name: Drukkerij Nelma 
+  url: https://www.nelma.be
+- name: Electro Ghys 
+  url: https://blog.electroghys.be
+- name: Electro Solutions 
+  url: https://www.electro-solutions.be
+- name: Ellicars Blog 
+  url: https://blog.ellicars.be
+- name: Emmers 
+  url: https://academy.emmers.eu
+- name: Escape Room Genk 
+  url: https://www.escaperoomlimburg.be
+- name: ESMA 
+  url: https://www.esma.be
+- name: Europ Electric 
+  url: https://www.europelectric.be
+- name: Eurosol 
+  url: https://www.eurosol.be
+- name: Farm Beef Boutique 
+  url: https://www.farmbeefboutique.be
+- name: Fietsen Bart 
+  url: https://www.fietsenbart.be/
+- name: Fietsen Decker 
+  url: https://blog.fietsendeckers.be
+- name: Fietsen Kim 
+  url: https://www.fietsenkim.be
+- name: Fietsen Smets 
+  url: https://blog.fietsensmets.be
+- name: Flanders Food Production DE 
+  url: https://www.flandersfoodproductions.de
+- name: Flanders Food Production EN 
+  url: https://www.flandersfoodproductions.com
+- name: Flanders Food Production FR 
+  url: https://www.flandersfoodproductions.fr
+- name: Flanders Food Production NL 
+  url: https://www.flandersfoodproductions.be
+- name: Food 2 Taste 
+  url: https://www.food2taste.be
+- name: Foxy Frozen Dreams 
+  url: https://www.foxyfrozendreams.be
+- name: Foxy Frozen Dreams FR
+  url: https://fr.foxyfrozendreams.be
+- name: Geurts 
+  url: https://www.geurtsh.be
+- name: Glaswerken Vigoureux 
+  url: https://www.vigoureux.be
+- name: GM Projects 
+  url: https://www.gm-projects.be
+- name: Groep Claesen 
+  url: https://blog.claesen.be
+- name: Groep FJK 
+  url: https://www.groepfjk.be
+- name: Haarwerken45 
+  url: https://www.haarwerken45.be
+- name: Handico Trucking 
+  url: https://www.handico-trucking.com
+- name: Haru Tools 
+  url: https://www.harutools.be
+- name: Hendrix Dakbedekking 
+  url: https://www.hendrixdakbedekking.com
+- name: Hercorub 
+  url: https://www.hercorub.be
+- name: Hercorub - En 
+  url: https://www.hercorub.com
+- name: Hermans 
+  url: https://www.hermansbvba.be
+- name: Honinx 
+  url: https://www.honinx.be
+- name: HOST NOL 
+  url: https://www.host-nol.be
+- name: Huis Casterman 
+  url: https://www.huiscastermans.be
+- name: ICL Arbeid 
+  url: https://www.iclarbeid.nl
+- name: Ideashooter 
+  url: https://www.ideashooter.com/
+- name: IKP Engineering 
+  url: https://www.ikp-engineering.be
+- name: InTrust 
+  url: https://blog.intrust.be
+- name: JaBo Bikes 
+  url: https://www.jabobikes.be
+- name: JL Service 
+  url: https://www.jlservice.be
+- name: Juwelier 
+  url: https://blog.juwelier-willems.be
+- name: Karcher Center Palmaers Shop 
+  url: https://shop.karchercenterpalmaers.be
+- name: karchercenterpalmaers 
+  url: https://www.karchercenterpalmaers.be
+- name: Keulen Beton 
+  url: https://www.keulenbeton.be
+- name: KickCity Genk 
+  url: https://www.kickcity.be
+- name: Kinderpraktijk 
+  url: https://www.kinderpraktijk.eu
+- name: Kinderrijck 
+  url: https://www.kinderrijck.be
+- name: Kristof van dun 
+  url: https://www.kvdhoutbouw.be
+- name: La nuit Slaapcomfort 
+  url: https://www.lanuit.be
+- name: Ligna Pharma 
+  url: https://www.lignapharma.be
+- name: Lima Kas 
+  url: https://www.limakas.com
+- name: Lindelo 
+  url: https://www.lindelo.be
+- name: Luna Sun 
+  url: https://www.lunasun.be
+- name: M-bike 
+  url: https://www.m-bike.be
+- name: Maric 
+  url: https://www.bouwbedrijfmaric.be
+- name: Martin Vandereyt Groep 
+  url: https://www.martinvandereytgroep.be
+- name: Mind Matter 
+  url: https://www.mindmatter.be
+- name: Nancy Wijnants 
+  url: https://www.nancywijnants.com
+- name: Natuursteen Vanham 
+  url: https://www.natuursteen-vanham.be
+- name: Neudebri 
+  url: https://www.neudebri.com
+- name: Nicole Jansen 
+  url: https://blog.nicolejanssen.be
+- name: Noa Training (Blog) 
+  url: https://blog.noatrainings.be
+- name: Nuts about nuts 
+  url: https://www.nutsaboutnuts.be
+- name: Officenter Group 
+  url: https://blog.officenter.eu
+- name: Onroerendgoed te koop 
+  url: https://blog.onroerendgoedtekoop.be
+- name: Paesen 
+  url: https://www.paesenneyens.be
+- name: Parquet Europe 
+  url: https://www.parquet.net
+- name: Portfolio webdesign 
+  url: https://portfolio.uptodatewebdesign.be/
+- name: Prana 
+  url: https://www.pranashiatsupraktijk.be
+- name: Procos 
+  url: https://www.procosprojectmeubel.be
+- name: Proosterbos 
+  url: https://blog.apotheekproosterbos.be
+- name: PS & Care 
+  url: https://www.pscare.be
+- name: Q Building 
+  url: https://www.q-building.com
+- name: Q Bus Architecten 
+  url: https://www.q-bus.net/
+- name: Quares Nieuws 
+  url: https://blog.quares.be
+- name: Quares Vacatures 
+  url: https://jobs.quares.be
+- name: Raco 
+  url: https://www.ra-co.be
+- name: Ramblaz 
+  url: https://www.ramblaz.com
+- name: Reno Ville 
+  url: https://www.reno-ville.be
+- name: Retro Cafe Dekolis 
+  url: https://www.retrocafedekolis.be
+- name: Rivo Technics 
+  url: https://www.rivotechnics.be
+- name: Rofix 
+  url: https://www.rofix.com
+- name: Roof Protect 
+  url: https://www.roof-protect.be
+- name: Rreac04 
+  url: https://www.rreac04.be
+- name: Sakura Fountain pen Gallery 
+  url: https://blog.sakurafountainpengallery.com
+- name: Schatteneiland 
+  url: https://blog.schatteneiland.be
+- name: Schuldenaar in Nederland 
+  url: https://www.incassobureaunederland.be
+- name: Senitas 
+  url: https://www.senitas.com
+- name: Senitas FR 
+  url: https://fr.senitas.com
+- name: Signature 
+  url: https://www.signature.be
+- name: Skwer 
+  url: https://www.skwer.be
+- name: Slagershof 
+  url: https://www.slagershof.be
+- name: Sleep Consult 
+  url: https://www.sleepconsult.be
+- name: Smart-site 
+  url: https://www.smart-site.be
+- name: Smartsite Bouw 
+  url: https://www.website-voor-de-bouwsector.be
+- name: Smartsite Zone 
+  url: https://zone-smart-site.blogspot.com
+- name: Smisse 
+  url: https://www.smisse.be
+- name: Soul Dive Academy 
+  url: https://www.souldiveacademy.be
+- name: Sowatt https://
+  url: https://www.sowatt.be
+- name: Sp0rtagon 
+  url: https://www.sportagon.be
+- name: Sportcoop 
+  url: https://www.sportcoop.be
+- name: Stado 
+  url: https://www.stado.be
+- name: Stageplan 
+  url: https://www.stageplan.be
+- name: Stappers 
+  url: https://blog.advocatenkantoorstappers.be
+- name: Stappers Advocantenkantoor 
+  url: https://www.stappersadvocatenkantoor.be
+- name: Studio Slimm 
+  url: https://www.studioslimm.be
+- name: Svalco 
+  url: https://www.svalco.be
+- name: SVG Construct 
+  url: https://www.svg-construct.be
+- name: Syndicus Hasselt 
+  url: https://www.syndicushasselt.be
+- name: TAE Blog FR 
+  url: https://actua.tae.be
+- name: TAE Blog NL 
+  url: https://blog.tae.be
+- name: Tax Service 
+  url: https://www.taxservice-euregio.nl
+- name: Terramax 
+  url: https://www.terramax.be
+- name: Tervado 
+  url: https://www.tervado.be
+- name: Thoxa 
+  url: https://www.thoxa.be
+- name: Thuisverpleging Eva Bosman 
+  url: https://www.evabosmanthuisverpleging.be
+- name: Toon Kamer 
+  url: https://www.detoonkamer.be
+- name: Total Energy 
+  url: https://www.totalenergy.be
+- name: TR Engineering 
+  url: https://www.tr-engineering.be
+- name: Tuinen Sannen 
+  url: https://www.tuinensannen.be
+- name: Tuinwerken Harings 
+  url: https://www.tuinwerken-harings.be
+- name: Ufficio 
+  url: https://ufficio2en.blogspot.com
+- name: UP-TO-DATE Communication 
+  url: https://www.uptodatecommunication.be
+- name: UP-TO-DATE My Business 
+  url: https://www.uptodatemybusiness.be
+- name: UP-TO-DATE Smart Blog 
+  url: https://www.uptodatesmartblog.be
+- name: UP-TO-DATE Smart Site 
+  url: https://www.uptodatesmartsite.be
+- name: UP-TO-DATE WebDesign 
+  url: https://www.uptodatewebdesign.com
+- name: Vantamoon 
+  url: https://www.vantamoon.com
+- name: Venditio + 
+  url: https://www.venditioplus.be
+- name: Verkoop Anders 
+  url: https://www.verkoopanders.be
+- name: Vived Management 
+  url: https://www.vived-management.be
+- name: Volvo Jacobs Genk 
+  url: https://www.volvojacobs.be
+- name: Waw Jobs 
+  url: https://blog.waw.jobs
+- name: Windex Lanaken 
+  url: https://www.windexlanaken.be
+- name: WLH 
+  url: https://www.wlh.be
+- name: Xenadvies 
+  url: https://blog.xenadvies.be
+- name: Zone Affligem 
+  url: https://www.zone-affligem.be
+- name: Zone Beringen 
+  url: https://www.zone-beringen.be
+- name: Zone Dilbeek 
+  url: https://www.zone-dilbeek.be
+- name: Zone Houthalen 
+  url: https://www.zone-houthalen-helchteren.be
+- name: Zone Mechelen Zuid 
+  url: https://www.zone-mechelen-zuid.be
+- name: Zone Roeselare 
+  url: https://www.zone-roeselare.be
+- name: Zwembaddokter 
+  url: https://www.zwembaddokter.be
+- name: ZZIN Coaching 
+  url: https://www.zzin.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
