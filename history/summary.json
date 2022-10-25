@@ -581,19 +581,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bankiraiterras.be.ico",
     "slug": "bankirai",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 377,
     "timeWeek": 377,
     "timeMonth": 377,
     "timeYear": 377,
-    "dailyMinutesDown": {
-      "2022-10-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BBTK",
@@ -2581,18 +2579,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roof-protect.be.ico",
     "slug": "roof-protect",
     "status": "down",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 2
+      "2022-10-25": 4
     }
   },
   {
@@ -3555,18 +3553,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zone-affligem.be.ico",
     "slug": "zone-affligem",
     "status": "down",
-    "uptime": "0.55%",
-    "uptimeDay": "0.55%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "0.55%",
-    "uptimeYear": "0.55%",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 2
+      "2022-10-25": 3
     }
   },
   {
@@ -3629,18 +3627,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zone-mechelen-zuid.be.ico",
     "slug": "zone-mechelen-zuid",
     "status": "down",
-    "uptime": "1.23%",
-    "uptimeDay": "1.23%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "1.23%",
-    "uptimeYear": "1.23%",
+    "uptime": "0.57%",
+    "uptimeDay": "0.57%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.57%",
+    "uptimeYear": "0.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 2
+      "2022-10-25": 3
     }
   },
   {
@@ -3649,18 +3647,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zone-roeselare.be.ico",
     "slug": "zone-roeselare",
     "status": "down",
-    "uptime": "0.69%",
-    "uptimeDay": "0.69%",
-    "uptimeWeek": "0.69%",
-    "uptimeMonth": "0.69%",
-    "uptimeYear": "0.69%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-25": 2
+      "2022-10-25": 3
     }
   },
   {
