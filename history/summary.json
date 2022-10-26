@@ -1048,19 +1048,19 @@
     "url": "https://blog-nl.dldpools.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog-nl.dldpools.be.ico",
     "slug": "dld-pools",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 807,
-    "timeDay": 807,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 808,
+    "timeDay": 808,
+    "timeWeek": 808,
+    "timeMonth": 808,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2022-10-26": 1
+      "2022-10-26": 11
     }
   },
   {
@@ -2592,7 +2592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 1187,
+      "2022-10-26": 1199,
       "2022-10-25": 177
     }
   },
@@ -3567,7 +3567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 1188,
+      "2022-10-26": 1200,
       "2022-10-25": 176
     }
   },
@@ -3642,7 +3642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 1188,
+      "2022-10-26": 1200,
       "2022-10-25": 176
     }
   },
@@ -3663,7 +3663,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 1188,
+      "2022-10-26": 1200,
       "2022-10-25": 176
     }
   },
