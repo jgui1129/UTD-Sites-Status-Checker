@@ -1048,18 +1048,20 @@
     "url": "https://blog-nl.dldpools.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog-nl.dldpools.be.ico",
     "slug": "dld-pools",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 807,
     "timeDay": 807,
     "timeWeek": 807,
     "timeMonth": 807,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-26": 1
+    }
   },
   {
     "name": "Drukkerij Nelma",
@@ -1553,19 +1555,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.handico-trucking.com.ico",
     "slug": "handico-trucking",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 529,
     "timeWeek": 529,
     "timeMonth": 529,
     "timeYear": 529,
-    "dailyMinutesDown": {
-      "2022-10-26": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Haru Tools",
@@ -2592,7 +2592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 898,
+      "2022-10-26": 1187,
       "2022-10-25": 177
     }
   },
@@ -3070,19 +3070,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/actua.tae.be.ico",
     "slug": "tae-blog-fr",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 527,
     "timeWeek": 527,
     "timeMonth": 527,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2022-10-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TAE Blog NL",
@@ -3090,19 +3088,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.tae.be.ico",
     "slug": "tae-blog-nl",
     "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 527,
     "timeWeek": 527,
     "timeMonth": 527,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2022-10-26": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tax Service",
@@ -3571,7 +3567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 899,
+      "2022-10-26": 1188,
       "2022-10-25": 176
     }
   },
@@ -3646,7 +3642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 899,
+      "2022-10-26": 1188,
       "2022-10-25": 176
     }
   },
@@ -3667,7 +3663,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-26": 899,
+      "2022-10-26": 1188,
       "2022-10-25": 176
     }
   },
