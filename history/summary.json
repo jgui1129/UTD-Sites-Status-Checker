@@ -2590,7 +2590,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-27": 863,
+      "2022-10-27": 890,
       "2022-10-26": 1440,
       "2022-10-25": 177
     }
@@ -3284,19 +3284,19 @@
     "url": "https://ufficio2en.blogspot.com",
     "icon": "https://icons.duckduckgo.com/ip3/ufficio2en.blogspot.com.ico",
     "slug": "ufficio",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 1923,
-    "timeDay": 3558,
-    "timeWeek": 1923,
-    "timeMonth": 1923,
-    "timeYear": 1923,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 1755,
+    "timeDay": 2677,
+    "timeWeek": 1755,
+    "timeMonth": 1755,
+    "timeYear": 1755,
     "dailyMinutesDown": {
-      "2022-10-27": 3
+      "2022-10-27": 28
     }
   },
   {
@@ -3568,7 +3568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-27": 863,
+      "2022-10-27": 891,
       "2022-10-26": 1440,
       "2022-10-25": 176
     }
@@ -3644,7 +3644,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-27": 864,
+      "2022-10-27": 891,
       "2022-10-26": 1440,
       "2022-10-25": 176
     }
@@ -3666,7 +3666,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-27": 864,
+      "2022-10-27": 891,
       "2022-10-26": 1440,
       "2022-10-25": 176
     }
