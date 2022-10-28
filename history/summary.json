@@ -1174,19 +1174,19 @@
     "url": "https://www.esma.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.esma.be.ico",
     "slug": "esma",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 1624,
     "timeDay": 3105,
     "timeWeek": 1624,
     "timeMonth": 1624,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2022-10-28": 35
+      "2022-10-28": 29
     }
   },
   {
@@ -1720,19 +1720,19 @@
     "url": "https://www.iclarbeid.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.iclarbeid.nl.ico",
     "slug": "icl-arbeid",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 1217,
     "timeDay": 2293,
     "timeWeek": 1217,
     "timeMonth": 1217,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2022-10-28": 34
+      "2022-10-28": 29
     }
   },
   {
@@ -1777,18 +1777,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.intrust.be.ico",
     "slug": "in-trust",
     "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.12%",
+    "uptime": "99.40%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 1210,
     "timeDay": 2100,
     "timeWeek": 1210,
     "timeMonth": 1210,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2022-10-28": 31
+      "2022-10-28": 21
     }
   },
   {
@@ -1796,18 +1796,20 @@
     "url": "https://www.jabobikes.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.jabobikes.be.ico",
     "slug": "ja-bo-bikes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 500,
     "timeDay": 609,
     "timeWeek": 500,
     "timeMonth": 500,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 4
+    }
   },
   {
     "name": "JL Service",
@@ -1832,19 +1834,19 @@
     "url": "https://blog.juwelier-willems.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.juwelier-willems.be.ico",
     "slug": "juwelier",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.14%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 801,
     "timeDay": 1149,
     "timeWeek": 801,
     "timeMonth": 801,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2022-10-28": 30
+      "2022-10-28": 25
     }
   },
   {
@@ -2034,19 +2036,19 @@
     "url": "https://www.lindelo.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.lindelo.be.ico",
     "slug": "lindelo",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 1292,
     "timeDay": 2922,
     "timeWeek": 1292,
     "timeMonth": 1292,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2022-10-28": 21
+      "2022-10-28": 24
     }
   },
   {
@@ -2127,18 +2129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mindmatter.be.ico",
     "slug": "mind-matter",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.41%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 475,
     "timeDay": 532,
     "timeWeek": 475,
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-10-28": 30
+      "2022-10-28": 21
     }
   },
   {
@@ -2310,19 +2312,19 @@
     "url": "https://www.parquet.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.parquet.net.ico",
     "slug": "parquet-europe",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 473,
     "timeDay": 632,
     "timeWeek": 473,
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-10-28": 9
+      "2022-10-28": 3
     }
   },
   {
@@ -2547,11 +2549,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.retrocafedekolis.be.ico",
     "slug": "retro-cafe-dekolis",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "98.56%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 541,
     "timeDay": 546,
     "timeWeek": 541,
@@ -2584,18 +2586,20 @@
     "url": "https://www.rofix.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.rofix.com.ico",
     "slug": "rofix",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 413,
     "timeDay": 530,
     "timeWeek": 413,
     "timeMonth": 413,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 3
+    }
   },
   {
     "name": "Roof Protect",
@@ -2614,7 +2618,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 470,
+      "2022-10-28": 486,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 177
@@ -2895,18 +2899,20 @@
     "url": "https://www.sowatt.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.sowatt.be.ico",
     "slug": "sowatt-https",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 559,
     "timeDay": 742,
     "timeWeek": 559,
     "timeMonth": 559,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 3
+    }
   },
   {
     "name": "Sp0rtagon",
@@ -2985,18 +2991,20 @@
     "url": "https://blog.advocatenkantoorstappers.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.advocatenkantoorstappers.be.ico",
     "slug": "stappers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 781,
     "timeDay": 1030,
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 3
+    }
   },
   {
     "name": "Stappers Advocantenkantoor",
@@ -3022,11 +3030,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.studioslimm.be.ico",
     "slug": "studio-slimm",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "98.56%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
     "time": 543,
     "timeDay": 519,
     "timeWeek": 543,
@@ -3206,19 +3214,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.evabosmanthuisverpleging.be.ico",
     "slug": "thuisverpleging-eva-bosman",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 458,
     "timeDay": 491,
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {
-      "2022-10-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Toon Kamer",
@@ -3315,19 +3321,19 @@
     "url": "https://ufficio2en.blogspot.com",
     "icon": "https://icons.duckduckgo.com/ip3/ufficio2en.blogspot.com.ico",
     "slug": "ufficio",
-    "status": "down",
-    "uptime": "97.16%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "97.16%",
-    "uptimeYear": "97.16%",
-    "time": 2051,
-    "timeDay": 3259,
-    "timeWeek": 2051,
-    "timeMonth": 2051,
-    "timeYear": 2051,
+    "status": "up",
+    "uptime": "96.80%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.80%",
+    "time": 2436,
+    "timeDay": 3711,
+    "timeWeek": 2436,
+    "timeMonth": 2436,
+    "timeYear": 2436,
     "dailyMinutesDown": {
-      "2022-10-28": 72,
+      "2022-10-28": 86,
       "2022-10-27": 28
     }
   },
@@ -3602,7 +3608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 471,
+      "2022-10-28": 487,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
@@ -3679,7 +3685,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 471,
+      "2022-10-28": 487,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
@@ -3702,7 +3708,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 471,
+      "2022-10-28": 487,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
