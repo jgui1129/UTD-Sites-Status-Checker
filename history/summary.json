@@ -1768,18 +1768,20 @@
     "url": "https://blog.intrust.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.intrust.be.ico",
     "slug": "in-trust",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 557,
     "timeDay": 617,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 3
+    }
   },
   {
     "name": "JaBo Bikes",
@@ -1822,18 +1824,20 @@
     "url": "https://blog.juwelier-willems.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.juwelier-willems.be.ico",
     "slug": "juwelier",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 591,
     "timeDay": 795,
     "timeWeek": 591,
     "timeMonth": 591,
     "timeYear": 591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 2
+    }
   },
   {
     "name": "Karcher Center Palmaers Shop",
@@ -2020,18 +2024,20 @@
     "url": "https://www.lindelo.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.lindelo.be.ico",
     "slug": "lindelo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 494,
     "timeDay": 561,
     "timeWeek": 494,
     "timeMonth": 494,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 2
+    }
   },
   {
     "name": "Luna Sun",
@@ -2110,36 +2116,40 @@
     "url": "https://www.mindmatter.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.mindmatter.be.ico",
     "slug": "mind-matter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 470,
     "timeDay": 621,
     "timeWeek": 470,
     "timeMonth": 470,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 2
+    }
   },
   {
     "name": "Nancy Wijnants",
     "url": "https://www.nancywijnants.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.nancywijnants.com.ico",
     "slug": "nancy-wijnants",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 594,
     "timeDay": 633,
     "timeWeek": 594,
     "timeMonth": 594,
     "timeYear": 594,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 2
+    }
   },
   {
     "name": "Natuursteen Vanham",
@@ -2524,18 +2534,20 @@
     "url": "https://www.retrocafedekolis.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.retrocafedekolis.be.ico",
     "slug": "retro-cafe-dekolis",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 578,
     "timeDay": 735,
     "timeWeek": 578,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 2
+    }
   },
   {
     "name": "Rivo Technics",
@@ -2590,7 +2602,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 113,
+      "2022-10-28": 399,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 177
@@ -2997,18 +3009,20 @@
     "url": "https://www.studioslimm.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.studioslimm.be.ico",
     "slug": "studio-slimm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 585,
     "timeDay": 706,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 2
+    }
   },
   {
     "name": "Svalco",
@@ -3285,18 +3299,19 @@
     "url": "https://ufficio2en.blogspot.com",
     "icon": "https://icons.duckduckgo.com/ip3/ufficio2en.blogspot.com.ico",
     "slug": "ufficio",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
-    "time": 1702,
-    "timeDay": 2849,
-    "timeWeek": 1702,
-    "timeMonth": 1702,
-    "timeYear": 1702,
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 2051,
+    "timeDay": 3259,
+    "timeWeek": 2051,
+    "timeMonth": 2051,
+    "timeYear": 2051,
     "dailyMinutesDown": {
+      "2022-10-28": 1,
       "2022-10-27": 28
     }
   },
@@ -3569,7 +3584,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 113,
+      "2022-10-28": 400,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
@@ -3646,7 +3661,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 113,
+      "2022-10-28": 400,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
@@ -3669,7 +3684,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 113,
+      "2022-10-28": 400,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
