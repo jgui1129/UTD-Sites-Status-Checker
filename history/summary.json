@@ -1174,19 +1174,19 @@
     "url": "https://www.esma.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.esma.be.ico",
     "slug": "esma",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
-    "time": 1810,
-    "timeDay": 4403,
-    "timeWeek": 1810,
-    "timeMonth": 1810,
-    "timeYear": 1810,
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 1624,
+    "timeDay": 3105,
+    "timeWeek": 1624,
+    "timeMonth": 1624,
+    "timeYear": 1624,
     "dailyMinutesDown": {
-      "2022-10-28": 28
+      "2022-10-28": 35
     }
   },
   {
@@ -1720,19 +1720,19 @@
     "url": "https://www.iclarbeid.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.iclarbeid.nl.ico",
     "slug": "icl-arbeid",
-    "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 1333,
-    "timeDay": 3180,
-    "timeWeek": 1333,
-    "timeMonth": 1333,
-    "timeYear": 1333,
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
+    "time": 1217,
+    "timeDay": 2293,
+    "timeWeek": 1217,
+    "timeMonth": 1217,
+    "timeYear": 1217,
     "dailyMinutesDown": {
-      "2022-10-28": 28
+      "2022-10-28": 34
     }
   },
   {
@@ -1776,19 +1776,19 @@
     "url": "https://blog.intrust.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.intrust.be.ico",
     "slug": "in-trust",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
-    "time": 1334,
-    "timeDay": 2917,
-    "timeWeek": 1334,
-    "timeMonth": 1334,
-    "timeYear": 1334,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 1210,
+    "timeDay": 2100,
+    "timeWeek": 1210,
+    "timeMonth": 1210,
+    "timeYear": 1210,
     "dailyMinutesDown": {
-      "2022-10-28": 24
+      "2022-10-28": 31
     }
   },
   {
@@ -1832,19 +1832,19 @@
     "url": "https://blog.juwelier-willems.be",
     "icon": "https://icons.duckduckgo.com/ip3/blog.juwelier-willems.be.ico",
     "slug": "juwelier",
-    "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 837,
-    "timeDay": 1431,
-    "timeWeek": 837,
-    "timeMonth": 837,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 801,
+    "timeDay": 1149,
+    "timeWeek": 801,
+    "timeMonth": 801,
+    "timeYear": 801,
     "dailyMinutesDown": {
-      "2022-10-28": 24
+      "2022-10-28": 30
     }
   },
   {
@@ -2126,19 +2126,19 @@
     "url": "https://www.mindmatter.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.mindmatter.be.ico",
     "slug": "mind-matter",
-    "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
-    "time": 473,
-    "timeDay": 553,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 475,
+    "timeDay": 532,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-10-28": 23
+      "2022-10-28": 30
     }
   },
   {
@@ -2310,19 +2310,19 @@
     "url": "https://www.parquet.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.parquet.net.ico",
     "slug": "parquet-europe",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 476,
-    "timeDay": 807,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 473,
+    "timeDay": 632,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2022-10-28": 2
+      "2022-10-28": 9
     }
   },
   {
@@ -2614,7 +2614,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 462,
+      "2022-10-28": 470,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 177
@@ -3205,19 +3205,19 @@
     "url": "https://www.evabosmanthuisverpleging.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.evabosmanthuisverpleging.be.ico",
     "slug": "thuisverpleging-eva-bosman",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 463,
-    "timeDay": 554,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 458,
+    "timeDay": 491,
+    "timeWeek": 458,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2022-10-28": 2
+      "2022-10-28": 9
     }
   },
   {
@@ -3316,18 +3316,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ufficio2en.blogspot.com.ico",
     "slug": "ufficio",
     "status": "down",
-    "uptime": "97.40%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "97.40%",
+    "uptime": "97.16%",
+    "uptimeDay": "93.05%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "97.16%",
     "time": 2051,
     "timeDay": 3259,
     "timeWeek": 2051,
     "timeMonth": 2051,
     "timeYear": 2051,
     "dailyMinutesDown": {
-      "2022-10-28": 64,
+      "2022-10-28": 72,
       "2022-10-27": 28
     }
   },
@@ -3602,7 +3602,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 462,
+      "2022-10-28": 471,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
@@ -3679,7 +3679,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 462,
+      "2022-10-28": 471,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
@@ -3702,7 +3702,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-28": 462,
+      "2022-10-28": 471,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 176
