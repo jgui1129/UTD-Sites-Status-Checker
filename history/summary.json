@@ -1329,19 +1329,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flandersfoodproductions.de.ico",
     "slug": "flanders-food-production-de",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 567,
     "timeWeek": 505,
     "timeMonth": 516,
     "timeYear": 516,
-    "dailyMinutesDown": {
-      "2022-11-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Flanders Food Production EN",
@@ -1697,19 +1695,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.host-nol.be.ico",
     "slug": "host-nol",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 432,
     "timeWeek": 419,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {
-      "2022-11-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Huis Casterman",
@@ -1851,11 +1847,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.juwelier-willems.be.ico",
     "slug": "juwelier",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 613,
     "timeDay": 518,
     "timeWeek": 469,
@@ -2529,19 +2525,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ramblaz.com.ico",
     "slug": "ramblaz",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 433,
     "timeWeek": 465,
     "timeMonth": 487,
     "timeYear": 487,
-    "dailyMinutesDown": {
-      "2022-11-05": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reno Ville",
@@ -2636,7 +2630,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 361,
+      "2022-11-05": 393,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -2928,18 +2922,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sowatt.be.ico",
     "slug": "sowatt-https",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 496,
     "timeDay": 631,
     "timeWeek": 477,
     "timeMonth": 496,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2022-11-05": 10,
       "2022-10-28": 37
     }
   },
@@ -3280,19 +3273,19 @@
     "url": "https://www.totalenergy.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.totalenergy.be.ico",
     "slug": "total-energy",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 514,
-    "timeDay": 564,
-    "timeWeek": 550,
-    "timeMonth": 514,
-    "timeYear": 514,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 507,
+    "timeDay": 485,
+    "timeWeek": 532,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2022-11-05": 1
+      "2022-11-05": 32
     }
   },
   {
@@ -3641,7 +3634,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 362,
+      "2022-11-05": 393,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -3726,7 +3719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 362,
+      "2022-11-05": 393,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
@@ -3757,7 +3750,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-05": 362,
+      "2022-11-05": 393,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
