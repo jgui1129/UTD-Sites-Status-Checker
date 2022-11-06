@@ -2452,19 +2452,19 @@
     "url": "https://www.q-bus.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.q-bus.net.ico",
     "slug": "q-bus-architecten",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1699,
-    "timeDay": 1654,
-    "timeWeek": 1622,
-    "timeMonth": 1699,
-    "timeYear": 1699,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1717,
+    "timeDay": 1816,
+    "timeWeek": 1667,
+    "timeMonth": 1717,
+    "timeYear": 1717,
     "dailyMinutesDown": {
-      "2022-11-06": 2
+      "2022-11-06": 10
     }
   },
   {
@@ -2632,7 +2632,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-06": 823,
+      "2022-11-06": 832,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -3637,7 +3637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-06": 823,
+      "2022-11-06": 833,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -3723,7 +3723,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-06": 823,
+      "2022-11-06": 833,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -3755,7 +3755,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-06": 823,
+      "2022-11-06": 833,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
